@@ -18,5 +18,6 @@ public class MyApp {
 
         System.out.println(shape.perimetr());
         System.out.println(shape.LongestSide());
+        System.out.println((shape.AvarageSide()));
     }
 }
